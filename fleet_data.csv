@@ -1,5 +1,6 @@
-no,capacity,count,fixed_cost,var_cost,operate_cost,fueleffwload,fueleffnload
+no,capacity,count,fixed_cost,var_cost,op_cost,fueleffwload,fueleffnload
 1,5,1,1714,3.62,124.9,5.1,6.2
 2,20,1,2296,5.33,227.57,3.8,4.3
 3,35,1,5507,5.76,245.65,2.7,3.3
 4,10,1,1961,4.73,143.21,4.6,5.8
+
